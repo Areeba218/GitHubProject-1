@@ -1,1 +1,1 @@
-Git is a free and open-source distributed version control system. It allows multiple developers to work on the same project simultaneously, tracking changes to files and enabling easy collaboration and code management. Essentially, it's a way to manage different versions of your code, so you can track changes, revert to previous versions, and work with others on the same project without overwriting each other's work.
+# GitHubProject-1
